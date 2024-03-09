@@ -15,7 +15,7 @@ Welcome to  Frontend-Project03!
 
 ## Demo
 
-Check out the live demo [here](#) (insert link to your live landing page).
+Check out the live demo [here](#) [(insert link to your live landing page)](https://inquisitive-anmol.github.io/Frontend-Project03/).
 
 ## Screenshots
 ![Screenshot 2024-03-10 002228](https://github.com/inquisitive-anmol/Frontend-Project03/assets/131289076/042d7edc-1dad-4d22-8295-794cce8ba16e)
